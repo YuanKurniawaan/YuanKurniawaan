@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## 🛰️ Digital Persona
 
 <table align="center">
@@ -39,16 +37,15 @@
 </td>
 </tr>
 </table>
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20for-Collaboration-00B4D8?style=for-the-badge"/>
 </p>
 
----
+
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Gusti%20Mboten%20Nate%20Sare.&author=Hanes%20GYuan" width="85%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Gusti%20Mboten%20Nate%20Sare.&author=Hanes%20Yuan" width="85%"/>
 </div>
 <!---
 YuanKurniawaan/YuanKurniawaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
